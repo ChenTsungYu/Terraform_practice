@@ -1,0 +1,10 @@
+# complie output
+/dist
+/temp
+
+# dependencies
+node_module
+# terraform exclude
+*.tfstate
+*.tfstate.backup
+*.terraform
